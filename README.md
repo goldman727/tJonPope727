@@ -23,16 +23,19 @@
   <ol>
     <li>
       <ul>
-        <li><a href="#built-with">About myself</a></li>
+        <li><a href="#about_me">About Me</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
 
-### Built With
+### About Me
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+I am Senior developer with 8 years of experience for AI, Dapp, Blockchain network, Web and Mobile App development.
+please hire me.
+
+My main skill:
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
