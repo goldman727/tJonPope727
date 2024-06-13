@@ -36,7 +36,7 @@ please hire me.
 
 My main skill:
 
-* [![Next][Next.js]]
+* [Next][Next.js]
 * [![React][React.js]]
 * [![Vue][Vue.js]]
 * [![Angular][Angular.io]][Angular-url]
