@@ -18,7 +18,6 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
   <ol>
     <li>
       <ul>
@@ -26,7 +25,6 @@
       </ul>
     </li>
   </ol>
-</details>
 
 
 ### About Me
