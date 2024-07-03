@@ -36,18 +36,6 @@ please hire me.
 
 My main skill:
 
-* Python
-* OpenCV
-* Node.js
-* C# 
-* ASP.Net
-* React
-* Solidity
-* Web3.js
-* PHP
-* Laravel
-* HTML
-* Javascript
+* Python, OpenCV, Node.js, C# , ASP.Net, React, Solidity, Web3.js, PHP, Laravel, HTML, Javascript
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
